@@ -55,7 +55,7 @@ To Do
 [x] Make an AJAX call from the client side app.js using an .ajax method and
 access json data through http://devjana.net/support/tau_students.json.
 
-[]When a person is displayed, show their name (first & last) and their info.
+[x]When a person is displayed, show their name (first & last) and their info.
 Only one person should be shown at any given time.
 
 [] Also on the DOM should be a display showing the number of people and which is
